@@ -1,2 +1,2 @@
 # GalleryApp
-This is a gallery web application built using mern stack
+This is a gallery application built using mern stack
